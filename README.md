@@ -42,7 +42,7 @@ It's based on ["FSJumpStarter2020"](https://github.com/AmbitiousPilots/FSJumpSta
 
 ## Instructions
 1. Download the latest [FSJumpStarter2020](https://github.com/AmbitiousPilots/FSSteamOverlay2020/releases) release and extract the zip file anywhere you like. 
-2. Add "FSSteamOverlay2020.exe" as Non-Steam Game to your steam library.
+2. Add "FSSteamOverlay2020.exe" as [Non-Steam Game](https://support.steampowered.com/kb_article.php?ref=2219-YDJV-5557) to your steam library.
 
 > **Optionally rename the steam game:** <br>
 > *Right click on FSSteamOverlay2020 in the steam library -> Properties -> change "FSSteamOverlay2020" into "Microsoft Flight Simulator" - This is what your steam friends will see when you start Flight Simulator via FSJumpStarter2020.* 
@@ -51,7 +51,7 @@ It's based on ["FSJumpStarter2020"](https://github.com/AmbitiousPilots/FSJumpSta
 > *Right click on FSSteamOverlay2020 in the steam library -> Manage -> Add desktop shortcut* 
 
 3. Start Microsoft Flight Simulator with the FSSteamOverlay2020 desktop shortcut or directly through steam.
-4. That's it. Enjoy the Steam Game Overlay! 
+4. That's it. Hit "Shift+Tab" and enjoy the Steam Game Overlay! 
 
 ***Note:** Always start Flight Simulator through steam or the desktop shortcut of FSSteamOverlay2020 to enable the steam game overlay. Also make sure [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-offline-installer) or higher is installed as it's required to run FSSteamOverlay2020.*
 <br><br>
