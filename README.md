@@ -41,11 +41,11 @@ It's based on ["FSJumpStarter2020"](https://github.com/AmbitiousPilots/FSJumpSta
 <br>
 
 ## Instructions
-1. Download the latest [FSJumpStarter2020](https://github.com/AmbitiousPilots/FSSteamOverlay2020/releases) release and extract the zip file anywhere you like. 
+1. Download the latest [FSSteamOverlay2020](https://github.com/AmbitiousPilots/FSSteamOverlay2020/releases) release and extract the zip file anywhere you like. 
 2. Add "FSSteamOverlay2020.exe" as [Non-Steam Game](https://support.steampowered.com/kb_article.php?ref=2219-YDJV-5557) to your steam library.
 
-> **Optionally rename the steam game:** <br>
-> *Right click on FSSteamOverlay2020 in the steam library -> Properties -> change "FSSteamOverlay2020" into "Microsoft Flight Simulator" - This is what your steam friends will see when you start Flight Simulator via FSJumpStarter2020.* 
+> **Optionally rename the non-steam game:** <br>
+> *Right click on FSSteamOverlay2020 in the steam library -> Properties -> change "FSSteamOverlay2020" into "Microsoft Flight Simulator" - This is what your steam friends will see when you start Flight Simulator via FSSteamOverlay2020.* 
 
 > **Optionally create a desktop shortcut:** <br>
 > *Right click on FSSteamOverlay2020 in the steam library -> Manage -> Add desktop shortcut* 
@@ -57,7 +57,7 @@ It's based on ["FSJumpStarter2020"](https://github.com/AmbitiousPilots/FSJumpSta
 <br><br>
 
 ## Status
-This project is being actively developed and maintained. For discussion, questions, remarks, feature requests, head on over to the [forum thread](https://forums.flightsimulator.com/).
+This project is being actively developed and maintained. For discussion, questions, remarks, feature requests, head on over to the [forum thread](https://forums.flightsimulator.com/t/mod-use-steam-overlay-for-store-version-of-flight-simulator/299172).
 <br><br>
 
 ## License
